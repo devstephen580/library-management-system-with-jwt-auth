@@ -39,7 +39,7 @@ A RESTful backend API built with **Spring Boot** for managing movie bookings, sh
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/stephendev580/library-booking-system.git
+git clone https://github.com/devstephen580/library-booking-system.git
 cd Movie-Booking-System
 ```
 
